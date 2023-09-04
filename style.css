@@ -11,7 +11,11 @@ body {
     padding: 30px;
 }
 
-h1 {
+.Titulo-principal {
+    padding-left: 20px;
+}
+
+.Titulo-centralizado {
     text-align: center;
 }
 
@@ -27,17 +31,13 @@ em strong {
     color: FF0000;
 }
 
-.itens {
+.Itens {
     font-style: italic;
 }
 
 .Benefícios {
     background: #FFFFFF;
     padding: 20px;
-}
-
-h2 {
-    text-align: center;
 }
 
 ul {
@@ -47,6 +47,6 @@ ul {
     margin-right: 15%;
 }
 
-.imagembeneficios {
+.Imagem-beneficios {
     width: 50%;
 }
