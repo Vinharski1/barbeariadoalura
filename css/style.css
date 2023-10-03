@@ -3,7 +3,7 @@ body {
 }
 
 #banner {
-    width: 100%;
+    width: 100px;
 }
     
 
@@ -49,5 +49,5 @@ ul {
 }
 
 .Imagem-beneficios {
-    width: 50%;
+    width: 50px;
 }
