@@ -12,17 +12,29 @@ nav {
     top: 110px;
     right: 0;
 }
-    nav li {
-        display: inline;
-        margin: 0 0 0 15px;
-    }
-    nav a {
-        text-transform: uppercase;
-        color: 000000;
-        font-weight: bold;
-        font-size: 22px;
-        text-decoration: none;
-    }
-    .produtos li {
-        display:inline-block
-    }
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+ }
+ nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+.Produtos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px;
+}
+.Produtos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+}
+.Produtos h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
