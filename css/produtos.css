@@ -30,7 +30,7 @@ nav a:hover {
 .Produtos {
     width: 940px;
     margin: 0 auto;
-    padding: 50px;
+    padding: 50px 0;
 }
 .Produtos li {
     display: inline-block;
@@ -40,9 +40,7 @@ nav a:hover {
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
-    border-color: #000000;
-    border-width: 2px;
-    border-style: solid;
+    border: 2px solid #000000;
     border-radius: 10px;
 }
 .Produtos li:hover {
