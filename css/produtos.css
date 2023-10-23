@@ -45,7 +45,6 @@ nav a:hover {
 }
 .Produtos li:hover {
     border-color: #c78c19;
-    font-size: 40px;
 }
 .Produtos li:active {
     border-color: #088c19;
@@ -68,7 +67,7 @@ nav a:hover {
 footer {
     text-align: center;
     background: url('../images/bg.jpg');
-    padding: 40px;
+    padding: 40px 0;
 }
 .Copyright {
     color: #FFFFFF;
